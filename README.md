@@ -22,8 +22,32 @@
 
 ---
 
-### 📊 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mohammedamd12&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+### 🛠️ Skills & Tools
+<p align="left">
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-005B96?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+
+  <!-- Deep Learning -->
+  <img src="https://img.shields.io/badge/Deep%20Learning-B22222?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+  <!-- Artificial Intelligence -->
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-4B0082?style=for-the-badge&logo=ai&logoColor=white"/>
+
+  <!-- AI Agents -->
+  <img src="https://img.shields.io/badge/AI%20Agents-00695C?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/PyTorch-D23400?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+  <!-- TensorFlow -->
+  <img src="https://img.shields.io/badge/TensorFlow-F57F17?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+</p>
+
 
 ---
 
