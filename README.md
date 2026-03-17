@@ -6,7 +6,7 @@
 Artificial Intelligence student passionate about building real-world AI solutions. I have hands-on experience in Machine Learning, Computer Vision, and Natural Language Processing, and I enjoy working on practical systems that solve real problems.
 
 ---
-### currently working on 🚀
+### Currently working on 
 Currently, I am working on AI solutions for government sectors, focusing on building intelligent systems that improve efficiency, automate processes, and support decision-making.
 
 ---
