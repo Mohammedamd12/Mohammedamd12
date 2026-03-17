@@ -45,8 +45,6 @@ Currently, I am working on AI solutions for government sectors, focusing on buil
   <!-- Automation & Voice -->
   <img src="https://img.shields.io/badge/ElevenLabs-FF6F00?style=for-the-badge&logo=voice&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-</p>
 ---
 
 ### 🌐 Connect with me
@@ -61,6 +59,3 @@ Currently, I am working on AI solutions for government sectors, focusing on buil
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
----
-
